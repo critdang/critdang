@@ -38,7 +38,7 @@
 ### 📚 Latest Projects
 - 🔍 **[DeepSeek Sidebar Chrome Extension](https://github.com/critdang/deepseek-sidebar-chrome-extension)** - A browser extension for enhanced browsing experience
 - 🤖 **[Facebook Marketplace Bot](https://github.com/critdang/facebook-marketplace-bot)** - Automates marketplace interactions
-
+- 🏨 **[Hotel Booking Platform](https://github.com/critdang/hotel-booking-platform)** - A web-based system for hotel reservations
 ---
 
 ### 📫 Connect with Me
