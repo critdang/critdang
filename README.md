@@ -35,9 +35,8 @@
 ---
 
 ### 📚 Latest Projects
-- 🎵 **Music Player App** - React Native app integrating YouTube API
-- 📊 **GitHub Dashboard** - A tool for better repo insights
-- 🏗️ **API Development** - Scalable REST API for mobile apps
+- 🔍 **[DeepSeek Sidebar Chrome Extension](https://github.com/critdang/deepseek-sidebar-chrome-extension)** - A browser extension for enhanced browsing experience
+- 🤖 **[Facebook Marketplace Bot](https://github.com/critdang/facebook-marketplace-bot)** - Automates marketplace interactions
 
 ---
 
