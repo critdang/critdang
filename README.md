@@ -26,13 +26,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+<!--
 ### 🔥 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=critdang&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=critdang&layout=compact&theme=radical)
 
 ---
+-->
 
 ### 📚 Latest Projects
 - 🔍 **[DeepSeek Sidebar Chrome Extension](https://github.com/critdang/deepseek-sidebar-chrome-extension)** - A browser extension for enhanced browsing experience
@@ -43,8 +44,9 @@
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huydang10/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:critdang1010@gmail.com)
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-
+-->
 ---
 
 _🚀 Keep Building, Keep Learning!_
