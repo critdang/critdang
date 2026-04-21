@@ -36,7 +36,7 @@
 -->
 
 ### 📚 Latest Projects
-- **[SyncWork]([https://github.com/critdang/vehicle-diagnostic](https://github.com/critdang/SyncWork))** - SyncWork is a Next.js automation platform with authentication, workflow management, billing, and third-party integrations.
+- **[SyncWork]([https://github.com/critdang/vehicle-diagnostic](https://github.com/critdang/SyncWork)])** - SyncWork is a Next.js automation platform with authentication, workflow management, billing, and third-party integrations.
 - **[Vehicle Diagnostic](https://github.com/critdang/vehicle-diagnostic)** - AI agent that connects to your car via an embedded MCP server to provide real-time diagnostics and insights.
 - 🔍 **[DeepSeek Sidebar Chrome Extension](https://github.com/critdang/deepseek-sidebar-chrome-extension)** - A browser extension for enhanced browsing experience ([Link](https://deepseek-sidebar.vercel.app/))
 - 🤖 **[Facebook Marketplace Bot](https://github.com/critdang/facebook-marketplace-bot)** - Automates marketplace interactions
