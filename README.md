@@ -40,7 +40,7 @@
 - **[Vehicle Diagnostic](https://github.com/critdang/vehicle-diagnostic)** - AI agent that connects to your car via an embedded MCP server to provide real-time diagnostics and insights.
 - 🔍 **[DeepSeek Sidebar Chrome Extension](https://github.com/critdang/deepseek-sidebar-chrome-extension)** - A browser extension for enhanced browsing experience ([Link](https://deepseek-sidebar.vercel.app/))
 - 🤖 **[Facebook Marketplace Bot](https://github.com/critdang/facebook-marketplace-bot)** - Automates marketplace interactions
-- 🏨 **[Hotel Booking Platform](https://github.com/critdang/hotel-booking-platform)** - A web-based system for hotel reservations
+- 🏨 **[Hotel Booking Platform](https://github.com/critdang/booking_hotel_fe)** - A web-based system for hotel reservations
 - 💻 **[Laptop Predictor (Machine Learning)](https://github.com/critdang/machine-learning-laptop-predictor)** - Predicts laptop performance using ML ([Demo](https://machine-learning-laptop-predictor-mbaclyrhs5jjxzla58dmkc.streamlit.app/))
 ---
 
